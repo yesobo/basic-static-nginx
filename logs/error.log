@@ -1,0 +1,10 @@
+2017/02/21 21:58:03 [emerg] 6780#3560: CreateFile() "C:\Users\Jesus\dev\static-server/conf/nginx.conf" failed (3: FormatMessage() error:(15100))
+2017/02/21 21:58:20 [emerg] 6888#5720: CreateFile() "C:\Users\Jesus\dev\static-server/conf/mime.types" failed (2: FormatMessage() error:(15100)) in C:\Users\Jesus\dev\static-server/conf/nginx.conf:18
+2017/02/21 22:00:08 [emerg] 1760#6516: CreateDirectory() "C:\Users\Jesus\dev\static-server/temp/client_body_temp" failed (3: FormatMessage() error:(15100))
+2017/02/21 22:02:04 [emerg] 3684#9716: CreateDirectory() "C:\Users\Jesus\dev\static-server/temp/client_body_temp" failed (3: FormatMessage() error:(15100))
+2017/02/21 22:05:50 [notice] 2416#6820: signal process started
+2017/02/21 22:05:50 [error] 2416#6820: CreateFile() "C:\Users\Jesus\dev\static-server/logs/nginx.pid" failed (2: FormatMessage() error:(15100))
+2017/02/21 22:06:32 [error] 1184#8244: *1 "C:\Users\Jesus\dev\static-server/html/index.html" is not found (3: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/02/21 22:09:25 [notice] 6608#3472: signal process started
+2017/02/21 22:10:08 [error] 3504#132: *3 CreateFile() "C:\Users\Jesus\dev\static-server/html/favicon.ico" failed (2: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/02/21 22:12:36 [notice] 10000#9080: signal process started
